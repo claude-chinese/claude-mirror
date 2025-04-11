@@ -2,12 +2,8 @@
 
 > 提供Claude AI智能助手最新教程与国内可用镜像。支持Claude 3.7 Sonnet/Opus，专注代码开发、文案创作、数据分析等场景。无需科学上网，一键使用顶级AI助手，含提示词指南与应用实例。
 >
-> **更新时间：2025/01/15**
+> **更新时间：2025/04**
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/claude-ai-guide.svg)](https://github.com/your-username/claude-ai-guide/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/claude-ai-guide.svg)](https://github.com/your-username/claude-ai-guide/network)
-[![GitHub issues](https://img.shields.io/github/issues/your-username/claude-ai-guide.svg)](https://github.com/your-username/claude-ai-guide/issues)
-[![GitHub license](https://img.shields.io/github/license/your-username/claude-ai-guide.svg)](https://github.com/your-username/claude-ai-guide/blob/main/LICENSE)
 
 ## 🚀 推荐镜像站点
 
