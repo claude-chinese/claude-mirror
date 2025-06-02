@@ -1,6 +1,6 @@
-# Claude AI智能助手 | Claude 3.7国内镜像与使用指南
+# Claude AI智能助手 | Claude 4国内镜像与使用指南
 
-> 提供Claude AI智能助手最新教程与国内可用镜像。支持Claude 3.7 Sonnet/Opus，专注代码开发、文案创作、数据分析等场景。无需科学上网，一键使用顶级AI助手，含提示词指南与应用实例。
+> 提供Claude AI智能助手最新教程与国内可用镜像。支持Claude 4 Sonnet/Opus，专注代码开发、文案创作、数据分析等场景。无需科学上网，一键使用顶级AI助手，含提示词指南与应用实例。
 >
 > **更新时间：2025/04/01**
 
@@ -11,9 +11,9 @@
 
 | 名称 | 网址 | 支持版本 | 免费额度 | 特色功能 |
 |------|------|----------|----------|----------|
-| AIBox 一站式AI平台 | [chat.aibox365.cn](https://chat.aibox365.cn) | Claude 3.7 Sonnet/Opus | 注册赠送算力55，每天登录赠送10次对话 | 支持Claude全系列模型，支持Midjourney、AIPPT |
-| Claude智能助手 | [claudechat.ai](https://claudechat.ai) | Claude 3.7 Sonnet | 注册后10次 | 支持多模态，文档分析 |
-| AI助理 | [ai-assistant.app](https://ai-assistant.app) | Claude 3.7 Sonnet | 15次 | 中文界面，无广告 |
+| AIBox 一站式AI平台 | [chat.aibox365.cn](https://chat.aibox365.cn) | Claude 4 Sonnet/Opus | 注册赠送算力55，每天登录赠送10次对话 | 支持Claude全系列模型，支持Midjourney、AIPPT |
+| Claude智能助手 | [claudechat.ai](https://claudechat.ai) | Claude 4 Sonnet | 注册后10次 | 支持多模态，文档分析 |
+| AI助理 | [ai-assistant.app](https://ai-assistant.app) | Claude 4 Sonnet | 15次 | 中文界面，无广告 |
 
 ## 📝 快速开始使用
 
@@ -24,7 +24,7 @@
    - 填写邮箱完成注册
    - 获得注册赠送的55算力
    - 每日登录额外赠送10次对话机会
-3. **选择模型：** 可选择 Claude 3.7 Sonnet 或 Opus 版本
+3. **选择模型：** 可选择 Claude 4 Sonnet 或 Opus 版本
 4. **开始对话：** 享受AI智能对话服务
 
 ### 方法二：通过官网访问（需翻墙）
@@ -33,7 +33,7 @@
 2. **注册账号：**
    - 准备邮箱，用于验证
    - 填写基本信息，完成注册
-3. **选择版本：** 登录后选择 Claude 3.7 Sonnet 或 Opus
+3. **选择版本：** 登录后选择 Claude 4 Sonnet 或 Opus
 4. **开始对话：** 输入问题，畅享原版智能对话
 
 ## 🎯 Claude AI功能特色
@@ -73,9 +73,9 @@ Claude提供专业的数据分析与商业决策支持：
 
 ## 💡 常见问题解答
 
-### Q1：Claude 3.7有哪些核心优势？
+### Q1：Claude 4有哪些核心优势？
 
-Claude 3.7是目前最先进的AI助手之一，具备以下特点：
+Claude 4是目前最先进的AI助手之一，具备以下特点：
 
 - 强大的代码理解与生成能力
 - 出色的多模态处理能力
